@@ -1,3 +1,5 @@
+Вывод в терминал:
+
 Worker{name='Иван', salary= 16640.0}
 Worker{name='Женя', salary= 24960.0}
 Worker{name='Сергей', salary= 15000.0}
